@@ -65,6 +65,7 @@
     </head>
     <body>
         <h1 style="color:#3E8F3A">Perla Paola Cabriales Ruiz</h1><br/>
+        
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
